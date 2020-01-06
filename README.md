@@ -8,4 +8,4 @@
 ## Other competing approaches
 
 * [Rigetti](https://www.rigetti.com/systems)
-* [Open Fermion](
+* [Open Fermion](https://github.com/quantumlib/OpenFermion)
