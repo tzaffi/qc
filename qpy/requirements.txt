@@ -8,7 +8,7 @@ holoviews
 ipython
 jupyter
 jupyterlab
-matplotlib
+matplotlib==3.0.3
 mayavi
 missingno
 notebook
@@ -21,5 +21,6 @@ requests
 seaborn
 sqlalchemy
 tables
+wxpython
 xlrd
 xlwt

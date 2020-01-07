@@ -1,6 +1,9 @@
 FROM python:3.7
 ENV PATH="/app/.local/bin/:${PATH}"
 
+RUN apt-get update && apt-get upgrade && \
+    apt-get install -y mayavi2
+
 COPY qpy/ /app
 COPY data/ /app/data
 
