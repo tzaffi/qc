@@ -7,6 +7,10 @@
     
 ## IBM [Quantum Experience](https://quantum-computing.ibm.com/docs/)
 
+### Visual [Quantum Circults](https://quantum-computing.ibm.com/docs/start-iqx/drag-drop/first-circ#create-your-first-quantum-circuit)
+
+### Jupyter [Qiskit Notebooks](https://quantum-computing.ibm.com/docs/start-iqx/code/first-circ#code-your-first-quantum-circuit)
+
 ## Other competing approaches
 
 * [Rigetti](https://www.rigetti.com/systems)
