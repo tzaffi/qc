@@ -11,6 +11,7 @@
 * A [Quantum Coin Flip](https://quantum-computing.ibm.com/composer/b7242129bf10d99209e0774bad16c576)
 
 ### Jupyter [Qiskit Notebooks](https://quantum-computing.ibm.com/docs/start-iqx/code/first-circ#code-your-first-quantum-circuit)
+* [Intro Circuit](https://quantum-computing.ibm.com/jupyter/user/FirstTry.ipynb)
 
 ## Other competing approaches
 
