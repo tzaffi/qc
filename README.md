@@ -4,6 +4,8 @@
 * Q# resources:
     * [Self paced course](https://cloudblogs.microsoft.com/quantum/2018/07/23/learn-at-your-own-pace-with-microsoft-quantum-katas/)
     * [Example Q# contest exercises](https://codeforces.com/contest/1002/problems)
+    
+## IBM [Quantum Experience](https://quantum-computing.ibm.com/docs/)
 
 ## Other competing approaches
 
